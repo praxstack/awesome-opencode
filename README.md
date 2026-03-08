@@ -314,6 +314,15 @@
 </details>
 
 <details>
+  <summary><b>OpenCode ntfy.sh</b> <img src="https://badgen.net/github/stars/lannuttia/opencode-ntfy.sh" height="14"/> - <i>Push notifications to keep you in the know, even when you're on the go.</i></summary>
+  <blockquote>
+    An OpenCode plugin that adds push notifications through ntfy.sh.
+    <br><br>
+    <a href="https://github.com/lannuttia/opencode-ntfy.sh">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Quota</b> <img src="https://badgen.net/github/stars/slkiser/opencode-quota" height="14"/> - <i>Quota toasts and token tracking</i></summary>
   <blockquote>
     Track quota and token usage across providers via automatic toasts and slash commands.
