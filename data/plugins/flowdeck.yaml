@@ -40,13 +40,6 @@ installation: |
   npx @dv.nghiem/flowdeck install
   ```
 
-  After installation, verify with:
-  ```bash
-  ls ~/.config/opencode/agent/ | grep -c "\.md"  # Should show 23+
-  ls ~/.config/opencode/skills/                   # Should show 24+
-  cat ~/.config/opencode/opencode.json | grep flowdeck  # Should show @dv.nghiem/flowdeck
-  ```
-
   Core workflow commands:
   - `/fd-new-project` — Bootstrap a new project with PROJECT.md, ROADMAP.md, STATE.md
   - `/fd-discuss` — Pre-planning structured Q&A to capture decisions
