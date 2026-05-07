@@ -743,6 +743,15 @@
 </details>
 
 <details>
+  <summary><b>Gem Team</b> <img src="https://badgen.net/github/stars/mubaidr/gem-team" height="14"/> - <i>Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.</i></summary>
+  <blockquote>
+    Self-Learning Multi-agent orchestration harness for spec-driven development and automated verification.
+    <br><br>
+    <a href="https://github.com/mubaidr/gem-team">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Agents</b> <img src="https://badgen.net/github/stars/darrenhinde/opencode-agents" height="14"/> - <i>Enhanced workflows</i></summary>
   <blockquote>
     A set of opencode configurations, prompts, agents, and plugins for enhanced development workflows.
